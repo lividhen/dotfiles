@@ -1,0 +1,5 @@
+#for window {
+#    [class=".*"] inhibit_idle fullscreen
+#    [app_id=".*"] inhibit_idle fullscreen
+#}
+
