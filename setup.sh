@@ -1,4 +1,6 @@
 sudo pacman -S --noconfirm --needed git base-devel
+sudo cp -r ./etc/* /etc/
+cp ./config/* ~/.config/
 git clone https://aur.archlinux.org/yay.git
 cd yay
 makepkg -si
