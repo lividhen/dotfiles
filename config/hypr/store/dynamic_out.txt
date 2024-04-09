@@ -1,1 +1,1 @@
-{"class": "paused", "text": "\u25b6 Kyle Hill - Why Reality is a \u201cControlled Hallucination\u201d ", "tooltip": "Why Reality is a \u201cControlled Hallucination\u201d\nby Kyle Hill\n(firefox.instance_1_132)"}
+{"class": "none", "text": ""}
